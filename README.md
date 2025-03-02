@@ -76,13 +76,13 @@ Please feel free to contact me for any questions or cooperation opportunities. I
 ## Citation
 If you find this repository useful in your research, please cite this article as:  
 
-L. Yang, S. Naser, A. Shami, S. Muhaidat, L. Ong, and M. Debbah, "Towards zero-touch networks: Cross-layer automated security solutions for 6G wireless networks," *IEEE Transactions on Communications*, pp. 1–30, 2025. 
+L. Yang, S. Naser, A. Shami, S. Muhaidat, L. Ong, and M. Debbah, "Towards zero-touch networks: Cross-layer automated security solutions for 6G wireless networks," *IEEE Transactions on Communications*, pp. 1–30, 2025, doi: 10.1109/TCOMM.2025.3547764. 
 
 ```
 @article{Yang23971707,
 author = {Yang, Li and Naser, Shimaa and Shami, Abdallah and Muhaidat, Sami and Ong, Lyndon and Debbah, Merouane},
 title = {Towards Zero Touch Networks: Cross-Layer Automated Security Solutions for 6G Wireless Networks},
-doi = {},
+doi = {10.1109/TCOMM.2025.3547764},
 journal = {IEEE Transactions on Communications},
 pages = {1--30},
 url = {https://doi.org/10.36227/techrxiv.23971707.v1},
