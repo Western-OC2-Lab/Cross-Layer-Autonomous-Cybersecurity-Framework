@@ -62,7 +62,11 @@ To address concept drift, effective methods should be able to detect concept dri
 2. CICIDS2017 dataset, a popular network traffic dataset for intrusion detection problems
    * Publicly available at: https://www.unb.ca/cic/datasets/ids-2017.html
    * Sampled dataset in this repository: [cicids2017_0.01km.csv](https://github.com/Western-OC2-Lab/Cross-Layer-Autonomous-Cybersecurity-Framework/blob/main/Data/cicids2017_0.01km.csv)
-
+  
+### Code  
+* [TCOM_AutoML_PLA_Dataset_1.ipynb](https://github.com/Western-OC2-Lab/Cross-Layer-Autonomous-Cybersecurity-Framework/blob/main/TCOM_AutoML_PLA_Dataset_1.ipynb): code for the sampled RF-fingerprinting dataset (for PLA).   
+* [TCOM_AutoML_CLIDS_Dataset_2.ipynb](https://github.com/Western-OC2-Lab/Cross-Layer-Autonomous-Cybersecurity-Framework/blob/main/TCOM_AutoML_CLIDS_Dataset_2.ipynb): code for the sampled CICIDS2017 dataset (for IDS).
+* 
 ### Requirements  
 * Python 3.6+ 
 * [scikit-learn](https://scikit-learn.org/stable/)  
