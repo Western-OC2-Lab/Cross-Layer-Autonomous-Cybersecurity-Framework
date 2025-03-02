@@ -58,8 +58,10 @@ To address concept drift, effective methods should be able to detect concept dri
 ### Datasets 
 1. Oracle Radio Frequency (RF) fingerprinting dataset, a public dataset for physical layer authentication (PLA)
    * Publicly available at: https://www.genesys-lab.org/oracle
+   * Sampled dataset in this repository: [oracle_rf_100_0.01.csv](https://github.com/Western-OC2-Lab/Cross-Layer-Autonomous-Cybersecurity-Framework/blob/main/Data/oracle_rf_100_0.01.csv)
 2. CICIDS2017 dataset, a popular network traffic dataset for intrusion detection problems
    * Publicly available at: https://www.unb.ca/cic/datasets/ids-2017.html
+   * Sampled dataset in this repository: [cicids2017_0.01km.csv](https://github.com/Western-OC2-Lab/Cross-Layer-Autonomous-Cybersecurity-Framework/blob/main/Data/cicids2017_0.01km.csv)
 
 ### Requirements  
 * Python 3.6+ 
