@@ -1,5 +1,5 @@
 # Cross-Layer-Autonomous-Cybersecurity-Framework
-This repository includes code for the paper "Towards Zero Touch Networks: Cross-Layer Automated Security Solutions for 6G Wireless Networks" accepted and to appear in IEEE Transactions on Communications (TCOM), focusing on autonomous cybersecurity (physical-layer authentication and cross-layer intrusion detection system development) using AutoML techniques.
+This repository includes code for the paper "[Towards Zero Touch Networks: Cross-Layer Automated Security Solutions for 6G Wireless Networks](https://arxiv.org/abs/2502.20627)" accepted and to appear in IEEE Transactions on Communications (TCOM), focusing on autonomous cybersecurity (physical-layer authentication and cross-layer intrusion detection system development) using AutoML techniques.
 
 The paper is publicly available on arXiv: [Towards Zero Touch Networks: Cross-Layer Automated Security Solutions for 6G Wireless Networks](https://arxiv.org/abs/2502.20627)
   
@@ -91,7 +91,7 @@ title = {Towards Zero Touch Networks: Cross-Layer Automated Security Solutions f
 doi = {10.1109/TCOMM.2025.3547764},
 journal = {IEEE Transactions on Communications},
 pages = {1--30},
-url = {https://doi.org/10.36227/techrxiv.23971707.v1},
+url = {https://arxiv.org/abs/2502.20627},
 year = {2025}
 }
 ```
