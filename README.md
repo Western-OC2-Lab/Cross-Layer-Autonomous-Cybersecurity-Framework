@@ -1,7 +1,8 @@
 # Cross-Layer-Autonomous-Cybersecurity-Framework
-This repository includes code for the paper "[Towards Zero Touch Networks: Cross-Layer Automated Security Solutions for 6G Wireless Networks](https://arxiv.org/abs/2502.20627)" accepted and to appear in IEEE Transactions on Communications (TCOM), focusing on autonomous cybersecurity (physical-layer authentication and cross-layer intrusion detection system development) using AutoML techniques.
+This repository includes code for the paper "[Towards Zero Touch Networks: Cross-Layer Automated Security Solutions for 6G Wireless Networks](https://ieeexplore.ieee.org/document/10909604)" published in IEEE Transactions on Communications (TCOM), focusing on autonomous cybersecurity (physical-layer authentication and cross-layer intrusion detection system development) using AutoML techniques.
 
-The paper is publicly available on arXiv: [Towards Zero Touch Networks: Cross-Layer Automated Security Solutions for 6G Wireless Networks](https://arxiv.org/abs/2502.20627)
+The paper is publicly available on arXiv: [Towards Zero Touch Networks: Cross-Layer Automated Security Solutions for 6G Wireless Networks](https://arxiv.org/abs/2502.20627)  
+Published Version in IEEE Xplore: https://ieeexplore.ieee.org/document/10909604
   
 - This code is an implementation of the major components of the proposed AutoML framework in the paper, which consists of:
    * Including **automated data pre-processing (mainly data balancing), automated feature engineering, automated model selection, hyperparameter optimization, and automated model updating** (concept drift adaptation).
@@ -82,16 +83,15 @@ Please feel free to contact me for any questions or cooperation opportunities. I
 ## Citation
 If you find this repository useful in your research, please cite this article as:  
 
-L. Yang, S. Naser, A. Shami, S. Muhaidat, L. Ong, and M. Debbah, "Towards zero-touch networks: Cross-layer automated security solutions for 6G wireless networks," *IEEE Transactions on Communications*, pp. 1–30, 2025, doi: 10.1109/TCOMM.2025.3547764. 
+L. Yang, S. Naser, A. Shami, S. Muhaidat, L. Ong, and M. Debbah, "Towards zero-touch networks: Cross-layer automated security solutions for 6G wireless networks," *IEEE Transactions on Communications*, pp. 1–30, 2025, doi: [10.1109/TCOMM.2025.3547764](https://ieeexplore.ieee.org/document/10909604). 
 
 ```
-@article{Yang23971707,
-author = {Yang, Li and Naser, Shimaa and Shami, Abdallah and Muhaidat, Sami and Ong, Lyndon and Debbah, Merouane},
-title = {Towards Zero Touch Networks: Cross-Layer Automated Security Solutions for 6G Wireless Networks},
-doi = {10.1109/TCOMM.2025.3547764},
-journal = {IEEE Transactions on Communications},
-pages = {1--30},
-url = {https://arxiv.org/abs/2502.20627},
-year = {2025}
-}
+@ARTICLE{10909604,
+  author={Yang, Li and Naser, Shimaa and Shami, Abdallah and Muhaidat, Sami and Ong, Lyndon and Debbah, Mérouane},
+  journal={IEEE Transactions on Communications}, 
+  title={Towards Zero Touch Networks: Cross-Layer Automated Security Solutions for 6G Wireless Networks}, 
+  year={2025},
+  pages={1-30},
+  keywords={Computer security;Adaptation models;Security;6G mobile communication;Protocols;Physical layer;Automated machine learning;Artificial intelligence;Autonomous networks;5G mobile communication;6G Network;Zero-Touch Networks;Cybersecurity;Cross-Layer Intrusion Detection System;Physical Layer Authentication;AutoML},
+  doi={10.1109/TCOMM.2025.3547764}}
 ```
